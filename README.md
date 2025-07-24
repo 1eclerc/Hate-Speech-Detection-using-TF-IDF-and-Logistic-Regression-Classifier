@@ -2,7 +2,7 @@
 
 This project builds a simple but effective machine learning pipeline for Turkish hate speech detection using TF-IDF vectorization and a logistic regression classifier.
 
-The project also applies a different approach to the first project that focuses on the same topic. You can visit here: [1eclerc's Repository | Hate Speech Detection on Turkish Tweets](https://github.com/1eclerc/Hate-Speech-Detection-on-Turkish-Tweets)
+The project also applies a different approach to the first project which focuses on the same topic. You can visit here: [1eclerc's Repository | Hate Speech Detection on Turkish Tweets](https://github.com/1eclerc/Hate-Speech-Detection-on-Turkish-Tweets)
 
 ---
 

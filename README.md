@@ -8,7 +8,7 @@ The project also applies a different approach to the first project that focuses 
 
 ## 📌 Project Overview
 
-- **Language**: Turkish 🇹🇷
+- **Language**: Turkish
 - **Goal**: Binary classification (hate speech vs non-hate speech)
 - **Algorithm**: TF-IDF + Logistic Regression
 - **Evaluation**: 5-Fold Cross-Validation with F1 Score
@@ -65,12 +65,6 @@ Use Google Colab or Jupyter Notebook to execute the pipeline.
 - NumPy
 - TF-IDF Vectorizer
 - Logistic Regression
-
----
-
-## 🙋‍♂️ Contributors
-
-Made with ❤️ by [Your Name](https://github.com/yourusername)
 
 ---
 
